@@ -1,8 +1,7 @@
 ### Chargée de cours de Mesures électronique 
 # CURRICULUM VETAE
 # ETUDES UNIVERSITAIRES
-  Licence
-      Licence professionnelle en Télécommunications à l’Université Libre de Guinée (ULG).
+  Licence professionnelle en Télécommunications à l’Université Libre de Guinée (ULG).
   Master 1 et 2
 Master professionnelle en Réseaux et Sécurité Informatique à l’Université Nongo Conakry (UNC)
 # ETUDES PROFESSIONNELLES
